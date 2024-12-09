@@ -1,6 +1,7 @@
 ﻿using CommunityToolkit.Mvvm.ComponentModel;
 using CommunityToolkit.Mvvm.Input;
 using Microsoft.Win32;
+using SQLite_Insight.Interfaces;
 using SQLite_Insight.Model;
 using System;
 using System.Collections.Generic;

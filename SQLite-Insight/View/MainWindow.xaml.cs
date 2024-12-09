@@ -1,4 +1,5 @@
-﻿using SQLite_Insight.ViewModel;
+﻿using SQLite_Insight.Interfaces;
+using SQLite_Insight.ViewModel;
 using System.Windows;
 using System.Windows.Controls;
 using System.Windows.Data;

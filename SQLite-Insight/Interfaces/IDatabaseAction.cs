@@ -1,4 +1,4 @@
-﻿namespace SQLite_Insight
+﻿namespace SQLite_Insight.Interfaces
 {
     internal interface IDatabaseAction
     {

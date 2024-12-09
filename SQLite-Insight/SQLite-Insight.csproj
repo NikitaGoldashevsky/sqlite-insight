@@ -14,7 +14,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Compile Update="View\SelectDialogStatic.cs">
+    <Compile Update="Utilities\SelectDialogStatic.cs">
       <Generator>MSBuild:Compile</Generator>
     </Compile>
   </ItemGroup>
